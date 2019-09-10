@@ -4,9 +4,9 @@ from tkinter import Tk, Label
 from PIL import ImageTk, Image
 
 HONEYPOT = {
-    "title": "Inbox (1) - ushtipak@gmail.com - Gmail - Google Chrome",
+    "title": "disposition [~/cpeople/workspace-go/disposition] - .../cmd/disposition/main.go - GoLand",
     "background": "desktop.png",
-    "geometry": "1275x1401"
+    "geometry": "2560x1407"
 }
 PACKED = {
     "side": "bottom",
